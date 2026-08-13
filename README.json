@@ -1,0 +1,366 @@
+{
+  "items": [
+    {
+      "description": "เฉพาะไลบรารี่ที่เหมาะแก่การศึกษาเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย หรือไลบรารี่ของคนไทยที่ได้รับความนิยมในระดับนานาชาติ",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lvarayut/relay-fullstack",
+          "description": "Modern Relay Starter Kit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-11-25T13:04:27Z",
+            "owner": "lvarayut",
+            "repo": "relay-fullstack",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "earthchie/jquery.Thailand.js",
+          "description": "ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-31T08:52:34Z",
+            "owner": "earthchie",
+            "repo": "jquery.Thailand.js",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lvarayut/javascript-style-guide",
+          "description": "คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-06-16T06:33:13Z",
+            "owner": "lvarayut",
+            "repo": "javascript-style-guide",
+            "stars": 455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rkcosmos/deepcut",
+          "description": "A Thai word tokenization library using Deep Neural Network (Python) :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-10-23T10:36:02Z",
+            "owner": "rkcosmos",
+            "repo": "deepcut",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kobkrit/nlp_thai_resources",
+          "description": "30+ collections of Thai Natural Language Processing libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-09T11:28:14Z",
+            "owner": "kobkrit",
+            "repo": "nlp_thai_resources",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dtinth/promptpay-qr",
+          "description": "Mobile web app, command line app, and JavaScript library to generate QR Code payload for PromptPay (JavaScript && HTML && CSS) :star:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-24T22:43:13Z",
+            "owner": "dtinth",
+            "repo": "promptpay-qr",
+            "stars": 323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cerberus/Thailand-Address",
+          "description": "ข้อมูลจังหวัด, อำเภอ, ตำบล, รหัสไปรษณีย์และภูมิภาค ของประเทศไทย (SQL || JSON)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-04T05:25:48Z",
+            "owner": "Cerberus",
+            "repo": "Thailand-Address",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETDA/e-TaxInvoice-PDFgen",
+          "description": "โปรแกรมสร้างใบกํากับภาษีในรูปแบบ PDF/A-3 (C#)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-25T08:59:08Z",
+            "owner": "ETDA",
+            "repo": "e-TaxInvoice-PDFgen",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codesanook/thailand-administrative-division-province-district-subdistrict-sql",
+          "description": "ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-04T06:48:49Z",
+            "owner": "codesanook",
+            "repo": "thailand-administrative-division-province-district-subdistrict-sql",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rathpanyowat/Thai-zip-code-latitude-and-longitude",
+          "description": "รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-10-07T09:06:21Z",
+            "owner": "rathpanyowat",
+            "repo": "Thai-zip-code-latitude-and-longitude",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gluons/vue-thailand-address",
+          "description": "Thai address input for Vue (JavaScript && Vue.js)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-19T19:15:39Z",
+            "owner": "gluons",
+            "repo": "vue-thailand-address",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-thailand-address",
+          "description": "ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-08-19T19:15:39Z",
+            "owner": "gluons",
+            "repo": "vue-thailand-address",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "greatfriends/ThaiBahtText",
+          "description": "แปลง \"121.50 บาท\" --> \"หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์\" (C# || Visual Basic && Javascript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-10-01T17:22:30Z",
+            "owner": "greatfriends",
+            "repo": "ThaiBahtText",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thanakan",
+          "description": "Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-15T05:22:22Z",
+            "owner": "codustry",
+            "repo": "thanakan",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kittinan/thai-handwriting-number",
+          "description": "Thai handwriting number dataset (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-26T13:32:04Z",
+            "owner": "kittinan",
+            "repo": "thai-handwriting-number",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thaifin",
+          "description": "ดึงข้อมูลพื้นฐานหุ้น (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T04:14:18Z",
+            "owner": "ninyawee",
+            "repo": "thaifin",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codeforthailand/Thai-Citizen-ID-Validator",
+          "description": "ตรวจสอบเลขประจำตัวประชาชน (JavaScript)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-01-18T18:04:39Z",
+            "owner": "codeforthailand",
+            "repo": "Thai-Citizen-ID-Validator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pythainav",
+          "description": "ดึงข้อมูลกองทุนไทย (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T11:19:44Z",
+            "owner": "ninyawee",
+            "repo": "pythainav",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Siam-Lottery/thai-lottery-widget",
+          "description": "โค้ดตรวจหวย (PHP)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-05-25T05:26:25Z",
+            "owner": "Siam-Lottery",
+            "repo": "thai-lottery-widget",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pythaiidcard",
+          "description": "อ่านข้อมูลบัตรประชาชนไทยด้วย smartcard reader (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-09T07:06:13Z",
+            "owner": "ninyawee",
+            "repo": "pythaiidcard",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "konjingjing",
+          "description": "hyper-fast Python module for validating Thai Citizen Card ID written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-14T10:36:54Z",
+            "owner": "ninyawee",
+            "repo": "konjingjing",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "borisat",
+          "description": "ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-15T14:27:05Z",
+            "owner": "ninyawee",
+            "repo": "borisat",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "ไลบรารี่"
+    },
+    {
+      "description": "คล้าย ๆ บทความ แต่เป็นเว็บไซต์/บล็อกที่รวบรวมบทความหรือบล็อกโพสต์ที่น่าสนใจหลาย ๆ อันเอาไว้ เหมาะแก่การอ่านเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย ที่หาไม่ได้ตามหนังสือ ไม่สอนเซ็ตอัพ ไม่สอนใช้ ... กันเถอะ ที่ควรหาได้ตาม documentation อยู่แล้ว",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ThaiProgrammer/tech-events-calendar",
+          "description": "ปฏิทินงาน tech ที่เกี่ยวข้องกับนักพัฒนาชาวไทย เริ่มต้นปี 2018",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-10-01T15:49:26Z",
+            "owner": "ThaiProgrammer",
+            "repo": "tech-events-calendar",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-bangkok",
+          "description": "a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-08T02:44:41Z",
+            "owner": "ninyawee",
+            "repo": "awesome-bangkok",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "codesanook free programming ebooks, tutorials and resources",
+          "description": "แหล่งรวมหนังสือ วิดีโอ และแหล่งความรู้การเขียนโปรแกรมแบบฟรี ๆ แบ่งเป็นหมวดหมู่ให้ค้นหาได้ง่าย",
+          "children": []
+        }
+      ],
+      "title": "เว็บไซต์/บล็อก/ฯลฯ"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:01.107Z",
+    "original_repository": "unnawut/awesome-thai-dev",
+    "original_repository_sha": "e9cf0656d521ae3f670f053fd9ea35e2d134fc3d",
+    "enhanced_repository": "enhansome/enhansome-thai-dev",
+    "enhanced_repository_description": null,
+    "title": "Awesome Thai Dev with stars"
+  }
+}
