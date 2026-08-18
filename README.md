@@ -27,7 +27,7 @@
 * [greatfriends/ThaiBahtText](https://github.com/greatfriends/ThaiBahtText) ⭐ 41 | 🐛 15 | 🌐 JavaScript | 📅 2020-10-01 - แปลง "121.50 บาท" --> "หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์" (C# || Visual Basic && Javascript)
 * [thanakan](https://github.com/codustry/thanakan) ⭐ 37 | 🐛 8 | 🌐 Python | 📅 2023-12-15 - Python Interface for Thai Bank API, KBANK, SCB, QR Code and slip verification.
 * [kittinan/thai-handwriting-number](https://github.com/kittinan/thai-handwriting-number) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2023-06-26 - Thai handwriting number dataset (Python)
-* [thaifin](https://github.com/ninyawee/thaifin) ⭐ 24 | 🐛 7 | 🌐 Python | 📅 2026-07-07 - ดึงข้อมูลพื้นฐานหุ้น (Python)
+* [thaifin](https://github.com/ninyawee/thaifin) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2026-07-07 - ดึงข้อมูลพื้นฐานหุ้น (Python)
 * [codeforthailand/Thai-Citizen-ID-Validator](https://github.com/codeforthailand/Thai-Citizen-ID-Validator) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-18 - ตรวจสอบเลขประจำตัวประชาชน (JavaScript)
 * [pythainav](https://github.com/ninyawee/pythainav) ⭐ 16 | 🐛 11 | 🌐 Python | 📅 2026-06-05 - ดึงข้อมูลกองทุนไทย (Python)
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2019-05-25 - โค้ดตรวจหวย (PHP)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
