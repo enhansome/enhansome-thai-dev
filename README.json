@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51304999,
             "language": "JavaScript",
             "last_commit": "2017-11-25T13:04:27Z",
             "owner": "lvarayut",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87624434,
             "language": "HTML",
             "last_commit": "2024-08-31T08:52:34Z",
             "owner": "earthchie",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33907579,
             "language": null,
             "last_commit": "2022-06-16T06:33:13Z",
             "owner": "lvarayut",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95091660,
             "language": "Python",
             "last_commit": "2020-10-23T10:36:02Z",
             "owner": "rkcosmos",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94662448,
             "language": null,
             "last_commit": "2023-04-09T11:28:14Z",
             "owner": "kobkrit",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102039919,
             "language": "JavaScript",
             "last_commit": "2023-01-24T22:43:13Z",
             "owner": "dtinth",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85217917,
             "language": null,
             "last_commit": "2024-10-04T05:25:48Z",
             "owner": "Cerberus",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90343100,
             "language": "C#",
             "last_commit": "2023-12-25T08:59:08Z",
             "owner": "ETDA",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 112919160,
             "language": null,
             "last_commit": "2021-10-04T06:48:49Z",
             "owner": "codesanook",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61981552,
             "language": null,
             "last_commit": "2019-10-07T09:06:21Z",
             "owner": "rathpanyowat",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98296930,
             "language": "TypeScript",
             "last_commit": "2025-08-19T19:15:39Z",
             "owner": "gluons",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98296930,
             "language": "TypeScript",
             "last_commit": "2025-08-19T19:15:39Z",
             "owner": "gluons",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35037972,
             "language": "JavaScript",
             "last_commit": "2020-10-01T17:22:30Z",
             "owner": "greatfriends",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345754510,
             "language": "Python",
             "last_commit": "2023-12-15T05:22:22Z",
             "owner": "codustry",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97728362,
             "language": "Python",
             "last_commit": "2023-06-26T13:32:04Z",
             "owner": "kittinan",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277524425,
             "language": "Python",
             "last_commit": "2026-07-07T04:14:18Z",
             "owner": "ninyawee",
@@ -234,6 +250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31455493,
             "language": "JavaScript",
             "last_commit": "2017-01-18T18:04:39Z",
             "owner": "codeforthailand",
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235756078,
             "language": "Python",
             "last_commit": "2026-06-05T11:19:44Z",
             "owner": "ninyawee",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70779846,
             "language": "PHP",
             "last_commit": "2019-05-25T05:26:25Z",
             "owner": "Siam-Lottery",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1063028519,
             "language": "Python",
             "last_commit": "2026-05-09T07:06:13Z",
             "owner": "ninyawee",
@@ -290,6 +310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 285971500,
             "language": "Rust",
             "last_commit": "2025-12-14T10:36:54Z",
             "owner": "ninyawee",
@@ -304,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 302715065,
             "language": "Python",
             "last_commit": "2023-12-15T14:27:05Z",
             "owner": "ninyawee",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115545524,
             "language": "JavaScript",
             "last_commit": "2019-10-01T15:49:26Z",
             "owner": "ThaiProgrammer",
@@ -338,26 +361,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 598618758,
             "language": null,
             "last_commit": "2023-04-08T02:44:41Z",
             "owner": "ninyawee",
             "repo": "awesome-bangkok",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "codesanook free programming ebooks, tutorials and resources",
-          "description": "แหล่งรวมหนังสือ วิดีโอ และแหล่งความรู้การเขียนโปรแกรมแบบฟรี ๆ แบ่งเป็นหมวดหมู่ให้ค้นหาได้ง่าย",
-          "children": []
         }
       ],
       "title": "เว็บไซต์/บล็อก/ฯลฯ"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:57:36.105Z",
+    "last_updated": "2026-08-19T12:53:35.300Z",
     "original_repository": "unnawut/awesome-thai-dev",
+    "original_repository_id": 107131336,
     "original_repository_sha": "e9cf0656d521ae3f670f053fd9ea35e2d134fc3d",
     "enhanced_repository": "enhansome/enhansome-thai-dev",
     "enhanced_repository_description": null,
