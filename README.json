@@ -374,9 +374,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:04:39.407Z",
-    "original_repository": "unnawut/awesome-thai-dev",
-    "original_repository_id": 107131336,
+    "last_updated": "2026-08-27T12:06:07.177Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 107131336,
+      "language": null,
+      "last_commit": "2025-10-23T16:39:22Z",
+      "owner": "unnawut",
+      "repo": "awesome-thai-dev",
+      "stars": 141
+    },
     "original_repository_sha": "e9cf0656d521ae3f670f053fd9ea35e2d134fc3d",
     "enhanced_repository": "enhansome/enhansome-thai-dev",
     "enhanced_repository_description": null,
