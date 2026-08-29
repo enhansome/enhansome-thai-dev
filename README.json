@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":point_up::running: Modern Relay Starter Kit - Integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS",
+            "homepage": "https://lvarayut.github.io/relay-fullstack/",
             "id": 51304999,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-11-25T13:04:27Z",
+            "open_issues": 6,
             "owner": "lvarayut",
             "repo": "relay-fullstack",
-            "stars": 979
+            "stars": 979,
+            "topics": [
+              "boilerplate",
+              "graphql",
+              "javascript",
+              "nodejs",
+              "react",
+              "relay",
+              "scaffolding",
+              "yeoman"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -26,12 +40,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side!",
+            "homepage": null,
             "id": 87624434,
             "language": "HTML",
+            "license": "WTFPL",
             "last_commit": "2024-08-31T08:52:34Z",
+            "open_issues": 7,
             "owner": "earthchie",
             "repo": "jquery.Thailand.js",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "address",
+              "autocomplete",
+              "javascript",
+              "jquery",
+              "ux"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -42,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":closed_book:  คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)",
+            "homepage": null,
             "id": 33907579,
             "language": null,
+            "license": null,
             "last_commit": "2022-06-16T06:33:13Z",
+            "open_issues": 0,
             "owner": "lvarayut",
             "repo": "javascript-style-guide",
-            "stars": 455
+            "stars": 455,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -58,12 +88,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Thai word tokenization library using Deep Neural Network",
+            "homepage": null,
             "id": 95091660,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-23T10:36:02Z",
+            "open_issues": 7,
             "owner": "rkcosmos",
             "repo": "deepcut",
-            "stars": 428
+            "stars": 428,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "keras",
+              "keras-tensorflow",
+              "python",
+              "segmentation",
+              "tensorflow",
+              "thai"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -74,12 +118,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "More than 50+ collections of Thai Natural Language Processing libraries. Update daily.",
+            "homepage": null,
             "id": 94662448,
             "language": null,
+            "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
+            "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesome-list",
+              "nlp",
+              "nlp-thai-resource",
+              "thai-language",
+              "thai-nlp",
+              "thai-nlp-library"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -90,12 +146,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏦 Mobile web app (https://promptpay2.me), command line app, and JavaScript library to generate QR Code payload for PromptPay.",
+            "homepage": "https://promptpay2.me/",
             "id": 102039919,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-24T22:43:13Z",
+            "open_issues": 43,
             "owner": "dtinth",
             "repo": "promptpay-qr",
-            "stars": 324
+            "stars": 324,
+            "topics": [
+              "promptpay-qr"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -106,12 +169,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thailand's provinces, districts, subdistricts, zip-codes and geographies.",
+            "homepage": null,
             "id": 85217917,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-10-04T05:25:48Z",
+            "open_issues": 1,
             "owner": "Cerberus",
             "repo": "Thailand-Address",
-            "stars": 148
+            "stars": 148,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -122,12 +190,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-Tax Invoice by Email - PDF Generator on PC",
+            "homepage": null,
             "id": 90343100,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2023-12-25T08:59:08Z",
+            "open_issues": 9,
             "owner": "ETDA",
             "repo": "e-TaxInvoice-PDFgen",
-            "stars": 145
+            "stars": 145,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -138,12 +211,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Administrative division of Thailand in SQL file format",
+            "homepage": null,
             "id": 112919160,
             "language": null,
+            "license": null,
             "last_commit": "2021-10-04T06:48:49Z",
+            "open_issues": 6,
             "owner": "codesanook",
             "repo": "thailand-administrative-division-province-district-subdistrict-sql",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -154,12 +234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lookup table for Thai zip code (postal code) latitude and longitude",
+            "homepage": null,
             "id": 61981552,
             "language": null,
+            "license": null,
             "last_commit": "2019-10-07T09:06:21Z",
+            "open_issues": 1,
             "owner": "rathpanyowat",
             "repo": "Thai-zip-code-latitude-and-longitude",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -170,12 +255,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇹🇭 Thai address input for Vue.",
+            "homepage": "https://git.io/vue-thailand-address",
             "id": 98296930,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-19T19:15:39Z",
+            "open_issues": 15,
             "owner": "gluons",
             "repo": "vue-thailand-address",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "address",
+              "autocomplete",
+              "hacktoberfest",
+              "thai",
+              "thai-address",
+              "thailand",
+              "thailand-address",
+              "typeahead",
+              "vue",
+              "vue-component",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -186,12 +288,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇹🇭 Thai address input for Vue.",
+            "homepage": "https://git.io/vue-thailand-address",
             "id": 98296930,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-08-19T19:15:39Z",
+            "open_issues": 15,
             "owner": "gluons",
             "repo": "vue-thailand-address",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "address",
+              "autocomplete",
+              "hacktoberfest",
+              "thai",
+              "thai-address",
+              "thailand",
+              "thailand-address",
+              "typeahead",
+              "vue",
+              "vue-component",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -202,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate money amount text in Thai language for example: from 121.50 will be \"หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์\"",
+            "homepage": "http://ThaiBahtText.azurewebsites.net/",
             "id": 35037972,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-10-01T17:22:30Z",
+            "open_issues": 15,
             "owner": "greatfriends",
             "repo": "ThaiBahtText",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -218,12 +342,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python Interface for Thai Bank API, KBANK, SCB including slip verification",
+            "homepage": null,
             "id": 345754510,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-15T05:22:22Z",
+            "open_issues": 8,
             "owner": "codustry",
             "repo": "thanakan",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -234,12 +365,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create Thai handwriting number dataset",
+            "homepage": "https://kittinan.github.io/thai-handwriting-number/",
             "id": 97728362,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-26T13:32:04Z",
+            "open_issues": 0,
             "owner": "kittinan",
             "repo": "thai-handwriting-number",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "handwriting",
+              "number",
+              "thai",
+              "thainumber"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -250,12 +391,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for access thai stock fundamental data up to 10+ years.",
+            "homepage": null,
             "id": 277524425,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2026-07-07T04:14:18Z",
+            "open_issues": 7,
             "owner": "ninyawee",
             "repo": "thaifin",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "financial-data",
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -266,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "เช็คเลขบัตรประจำตัวประชาชน",
+            "homepage": null,
             "id": 31455493,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2017-01-18T18:04:39Z",
+            "open_issues": 1,
             "owner": "codeforthailand",
             "repo": "Thai-Citizen-ID-Validator",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -282,12 +437,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Pythonic interface to pull thai mutual fund NAV",
+            "homepage": "https://pythainav.nutchanon.org/",
             "id": 235756078,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-05T11:19:44Z",
+            "open_issues": 11,
             "owner": "ninyawee",
             "repo": "pythainav",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "financial-data",
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -298,12 +462,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "แสดงผลสลากกินแบ่งรัฐบาลไทย โค้ดตรวจหวย https://wordpress.org/plugins/thai-lottery-widget/",
+            "homepage": "https://www.lottery.co.th/code",
             "id": 70779846,
             "language": "PHP",
+            "license": null,
             "last_commit": "2019-05-25T05:26:25Z",
+            "open_issues": 0,
             "owner": "Siam-Lottery",
             "repo": "thai-lottery-widget",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "iframe",
+              "lottery",
+              "lotto",
+              "shortcode",
+              "thai",
+              "website",
+              "widget",
+              "widget-page",
+              "wordpress"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -314,12 +493,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for reading Thai national ID cards using smartcard readers",
+            "homepage": "https://ninyawee.github.io/pythaiidcard/",
             "id": 1063028519,
             "language": "Python",
+            "license": "ISC",
             "last_commit": "2026-05-09T07:06:13Z",
+            "open_issues": 11,
             "owner": "ninyawee",
             "repo": "pythaiidcard",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "citizen-id",
+              "id-card",
+              "national-id",
+              "pcsc",
+              "pyscard",
+              "smartcard",
+              "thai",
+              "thailand"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -330,12 +523,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Thai Citizen ID validation library available in Rust, Python, Node.js, and WebAssembly.",
+            "homepage": "https://ninyawee.github.io/konjingjing/",
             "id": 285971500,
             "language": "Rust",
+            "license": "ISC",
             "last_commit": "2025-12-14T10:36:54Z",
+            "open_issues": 0,
             "owner": "ninyawee",
             "repo": "konjingjing",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -346,12 +544,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a python for retrieving company public data",
+            "homepage": "https://circleoncircles.github.io/borisat/",
             "id": 302715065,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-15T14:27:05Z",
+            "open_issues": 3,
             "owner": "ninyawee",
             "repo": "borisat",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "hacktoberfest",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         }
@@ -368,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[Archived] เว็บไซต์และฐานข้อมูลรวบรวม Tech events ต่างๆ สำหรับคนสาย Tech ในไทย",
+            "homepage": "https://calendar.thaiprogrammer.org/",
             "id": 115545524,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-01T15:49:26Z",
+            "open_issues": 0,
             "owner": "ThaiProgrammer",
             "repo": "tech-events-calendar",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         },
@@ -384,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc. ",
+            "homepage": null,
             "id": 598618758,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-04-08T02:44:41Z",
+            "open_issues": 0,
             "owner": "ninyawee",
             "repo": "awesome-bangkok",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
         }
@@ -398,15 +614,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:03:04.997Z",
+    "last_updated": "2026-08-29T05:00:26.137Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome technical libraries/articles/resources in Thai",
+      "homepage": null,
       "id": 107131336,
       "language": null,
+      "license": "Unlicense",
       "last_commit": "2025-10-23T16:39:22Z",
+      "open_issues": 0,
       "owner": "unnawut",
       "repo": "awesome-thai-dev",
-      "stars": 141
+      "stars": 141,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "thai",
+        "thai-dev",
+        "thailand"
+      ]
     },
     "original_repository_sha": "e9cf0656d521ae3f670f053fd9ea35e2d134fc3d",
     "enhanced_repository": "enhansome/enhansome-thai-dev",
