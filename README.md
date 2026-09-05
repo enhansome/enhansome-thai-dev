@@ -13,10 +13,10 @@
 *เฉพาะไลบรารี่ที่เหมาะแก่การศึกษาเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย หรือไลบรารี่ของคนไทยที่ได้รับความนิยมในระดับนานาชาติ*
 
 * [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) ⭐ 979 | 🐛 6 | 🌐 JavaScript | 📅 2017-11-25 - Modern Relay Starter Kit
-* [earthchie/jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) ⭐ 696 | 🐛 7 | 🌐 HTML | 📅 2024-08-31 - ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:
+* [earthchie/jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) ⭐ 694 | 🐛 7 | 🌐 HTML | 📅 2024-08-31 - ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:
 * [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) ⭐ 455 | 🐛 0 | 📅 2022-06-16 - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
 * [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) ⭐ 428 | 🐛 7 | 🌐 Python | 📅 2020-10-23 - A Thai word tokenization library using Deep Neural Network (Python) :star:
-* [kobkrit/nlp\_thai\_resources](https://github.com/kobkrit/nlp_thai_resources) ⭐ 394 | 🐛 7 | 📅 2023-04-09 - 30+ collections of Thai Natural Language Processing libraries.
+* [kobkrit/nlp\_thai\_resources](https://github.com/kobkrit/nlp_thai_resources) ⭐ 393 | 🐛 7 | 📅 2023-04-09 - 30+ collections of Thai Natural Language Processing libraries.
 * [dtinth/promptpay-qr](https://github.com/dtinth/promptpay-qr) ⭐ 325 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-24 - Mobile web app, command line app, and JavaScript library to generate QR Code payload for PromptPay (JavaScript && HTML && CSS) :star:
 * [Cerberus/Thailand-Address](https://github.com/Cerberus/Thailand-Address) ⭐ 148 | 🐛 1 | 📅 2024-10-04 - ข้อมูลจังหวัด, อำเภอ, ตำบล, รหัสไปรษณีย์และภูมิภาค ของประเทศไทย (SQL || JSON)
 * [ETDA/e-TaxInvoice-PDFgen](https://github.com/ETDA/e-TaxInvoice-PDFgen) ⭐ 145 | 🐛 9 | 🌐 C# | 📅 2023-12-25 - โปรแกรมสร้างใบกํากับภาษีในรูปแบบ PDF/A-3 (C#)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

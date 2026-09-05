@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "earthchie",
             "repo": "jquery.Thailand.js",
-            "stars": 696,
+            "stars": 694,
             "topics": [
               "address",
               "autocomplete",
@@ -127,7 +127,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 394,
+            "stars": 393,
             "topics": [
               "awesome-list",
               "nlp",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T16:52:39.647Z",
+    "last_updated": "2026-09-05T16:05:24.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
