@@ -127,7 +127,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 393,
+            "stars": 394,
             "topics": [
               "awesome-list",
               "nlp",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T18:38:57.424Z",
+    "last_updated": "2026-09-15T17:40:32.049Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
