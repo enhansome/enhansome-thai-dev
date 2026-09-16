@@ -12,7 +12,7 @@
 
 *เฉพาะไลบรารี่ที่เหมาะแก่การศึกษาเพื่อทำความเข้าใจสถาปัตยกรรม อัลกอริธึม หรือแนวคิดแก้ไขปัญหาในบริบทของคนไทย สังคมไทย หรือประเทศไทย หรือไลบรารี่ของคนไทยที่ได้รับความนิยมในระดับนานาชาติ*
 
-* [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) ⭐ 979 | 🐛 6 | 🌐 JavaScript | 📅 2017-11-25 - Modern Relay Starter Kit
+* [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) ⭐ 978 | 🐛 6 | 🌐 JavaScript | 📅 2017-11-25 - Modern Relay Starter Kit
 * [earthchie/jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) ⭐ 694 | 🐛 7 | 🌐 HTML | 📅 2024-08-31 - ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:
 * [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) ⭐ 454 | 🐛 0 | 📅 2022-06-16 - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
 * [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) ⭐ 428 | 🐛 7 | 🌐 Python | 📅 2020-10-23 - A Thai word tokenization library using Deep Neural Network (Python) :star:
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
