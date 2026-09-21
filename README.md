@@ -21,7 +21,7 @@
 * [Cerberus/Thailand-Address](https://github.com/Cerberus/Thailand-Address) ⭐ 148 | 🐛 1 | 📅 2024-10-04 - ข้อมูลจังหวัด, อำเภอ, ตำบล, รหัสไปรษณีย์และภูมิภาค ของประเทศไทย (SQL || JSON)
 * [ETDA/e-TaxInvoice-PDFgen](https://github.com/ETDA/e-TaxInvoice-PDFgen) ⭐ 145 | 🐛 9 | 🌐 C# | 📅 2023-12-25 - โปรแกรมสร้างใบกํากับภาษีในรูปแบบ PDF/A-3 (C#)
 * [codesanook/thailand-administrative-division-province-district-subdistrict-sql](https://github.com/codesanook/thailand-administrative-division-province-district-subdistrict-sql) ⭐ 132 | 🐛 6 | 📅 2021-10-04 - ฐานข้อมูล จังหวัด อำเภอ ตำบล ละติจูด ลองจิจูด
-* [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) ⭐ 89 | 🐛 1 | 📅 2019-10-07 - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
+* [rathpanyowat/Thai-zip-code-latitude-and-longitude](https://github.com/rathpanyowat/Thai-zip-code-latitude-and-longitude) ⭐ 89 | 🐛 0 | 📅 2026-09-21 - รวมพิกัด lat, long ตามรหัสไปรษณีย์ (JSON || Excel)
 * [gluons/vue-thailand-address](https://github.com/gluons/vue-thailand-address) ⭐ 65 | 🐛 15 | 🌐 TypeScript | 📅 2025-08-19 - Thai address input for Vue (JavaScript && Vue.js)
 * [vue-thailand-address](https://github.com/gluons/vue-thailand-address) ⭐ 65 | 🐛 15 | 🌐 TypeScript | 📅 2025-08-19 - ตัวช่วยกรอกที่อยู่ของไทย สำหรับ Vue
 * [greatfriends/ThaiBahtText](https://github.com/greatfriends/ThaiBahtText) ⭐ 41 | 🐛 15 | 🌐 JavaScript | 📅 2020-10-01 - แปลง "121.50 บาท" --> "หนึ่งร้อยยี่สิบเอ็ดบาทห้าสิบสตางค์" (C# || Visual Basic && Javascript)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
