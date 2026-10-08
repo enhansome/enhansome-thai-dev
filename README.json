@@ -178,7 +178,7 @@
             "open_issues": 1,
             "owner": "Cerberus",
             "repo": "Thailand-Address",
-            "stars": 148,
+            "stars": 147,
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T19:20:58.979Z",
+    "last_updated": "2026-10-08T19:17:07.095Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
