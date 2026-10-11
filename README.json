@@ -155,7 +155,7 @@
             "open_issues": 43,
             "owner": "dtinth",
             "repo": "promptpay-qr",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "promptpay-qr"
             ]
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:51:58.897Z",
+    "last_updated": "2026-10-11T18:05:18.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
