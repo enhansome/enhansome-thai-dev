@@ -49,7 +49,7 @@
             "open_issues": 7,
             "owner": "earthchie",
             "repo": "jquery.Thailand.js",
-            "stars": 695,
+            "stars": 694,
             "topics": [
               "address",
               "autocomplete",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T16:25:32.065Z",
+    "last_updated": "2026-10-18T16:32:58.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
