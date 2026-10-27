@@ -97,7 +97,7 @@
             "open_issues": 7,
             "owner": "rkcosmos",
             "repo": "deepcut",
-            "stars": 428,
+            "stars": 427,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -127,7 +127,7 @@
             "open_issues": 7,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
-            "stars": 396,
+            "stars": 395,
             "topics": [
               "awesome-list",
               "nlp",
@@ -155,7 +155,7 @@
             "open_issues": 43,
             "owner": "dtinth",
             "repo": "promptpay-qr",
-            "stars": 329,
+            "stars": 328,
             "topics": [
               "promptpay-qr"
             ]
@@ -583,7 +583,7 @@
             "open_issues": 0,
             "owner": "ThaiProgrammer",
             "repo": "tech-events-calendar",
-            "stars": 190,
+            "stars": 189,
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T19:20:29.205Z",
+    "last_updated": "2026-10-27T18:41:40.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
@@ -626,7 +626,7 @@
       "open_issues": 0,
       "owner": "unnawut",
       "repo": "awesome-thai-dev",
-      "stars": 141,
+      "stars": 140,
       "topics": [
         "awesome",
         "awesome-list",
