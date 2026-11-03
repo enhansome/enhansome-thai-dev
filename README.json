@@ -97,7 +97,7 @@
             "open_issues": 7,
             "owner": "rkcosmos",
             "repo": "deepcut",
-            "stars": 427,
+            "stars": 426,
             "topics": [
               "deep-learning",
               "deep-neural-networks",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T22:19:07.534Z",
+    "last_updated": "2026-11-03T20:06:56.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",

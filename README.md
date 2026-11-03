@@ -15,7 +15,7 @@
 * [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) ⭐ 978 | 🐛 6 | 🌐 JavaScript | 📅 2017-11-25 - Modern Relay Starter Kit
 * [earthchie/jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) ⭐ 695 | 🐛 7 | 🌐 HTML | 📅 2024-08-31 - ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:
 * [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) ⭐ 455 | 🐛 0 | 📅 2022-06-16 - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
-* [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) ⭐ 427 | 🐛 7 | 🌐 Python | 📅 2020-10-23 - A Thai word tokenization library using Deep Neural Network (Python) :star:
+* [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) ⭐ 426 | 🐛 7 | 🌐 Python | 📅 2020-10-23 - A Thai word tokenization library using Deep Neural Network (Python) :star:
 * [kobkrit/nlp\_thai\_resources](https://github.com/kobkrit/nlp_thai_resources) ⭐ 395 | 🐛 7 | 📅 2023-04-09 - 30+ collections of Thai Natural Language Processing libraries.
 * [dtinth/promptpay-qr](https://github.com/dtinth/promptpay-qr) ⭐ 328 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-24 - Mobile web app, command line app, and JavaScript library to generate QR Code payload for PromptPay (JavaScript && HTML && CSS) :star:
 * [Cerberus/Thailand-Address](https://github.com/Cerberus/Thailand-Address) ⭐ 147 | 🐛 1 | 📅 2024-10-04 - ข้อมูลจังหวัด, อำเภอ, ตำบล, รหัสไปรษณีย์และภูมิภาค ของประเทศไทย (SQL || JSON)
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
