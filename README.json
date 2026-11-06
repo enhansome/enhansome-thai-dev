@@ -94,7 +94,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-10-23T10:36:02Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "rkcosmos",
             "repo": "deepcut",
             "stars": 426,
@@ -178,7 +178,7 @@
             "open_issues": 1,
             "owner": "Cerberus",
             "repo": "Thailand-Address",
-            "stars": 147,
+            "stars": 148,
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:40:36.113Z",
+    "last_updated": "2026-11-06T19:57:28.851Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
