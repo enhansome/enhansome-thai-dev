@@ -549,8 +549,8 @@
             "id": 1421838108,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T01:09:46Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-11T12:46:32Z",
+            "open_issues": 7,
             "owner": "klanarongz2009-sketch",
             "repo": "ter-ai",
             "stars": 1,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:28:06.036Z",
+    "last_updated": "2026-11-11T20:12:01.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
@@ -664,7 +664,7 @@
       "open_issues": 0,
       "owner": "unnawut",
       "repo": "awesome-thai-dev",
-      "stars": 140,
+      "stars": 141,
       "topics": [
         "awesome",
         "awesome-list",
