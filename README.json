@@ -442,8 +442,8 @@
             "id": 235756078,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-06-05T11:19:44Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-12T09:57:46Z",
+            "open_issues": 13,
             "owner": "ninyawee",
             "repo": "pythainav",
             "stars": 16,
@@ -581,7 +581,7 @@
           "description": "ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "a python for retrieving company public data",
             "homepage": "https://circleoncircles.github.io/borisat/",
             "id": 302715065,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T20:12:01.989Z",
+    "last_updated": "2026-11-12T20:49:48.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
