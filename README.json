@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "lvarayut",
             "repo": "relay-fullstack",
-            "stars": 979,
+            "stars": 978,
             "topics": [
               "boilerplate",
               "graphql",
@@ -155,7 +155,7 @@
             "open_issues": 43,
             "owner": "dtinth",
             "repo": "promptpay-qr",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "promptpay-qr"
             ]
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:29:31.005Z",
+    "last_updated": "2026-11-14T18:44:37.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
