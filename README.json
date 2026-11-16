@@ -76,7 +76,7 @@
             "open_issues": 0,
             "owner": "lvarayut",
             "repo": "javascript-style-guide",
-            "stars": 456,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
@@ -442,8 +442,8 @@
             "id": 235756078,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T09:57:46Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-15T23:49:22Z",
+            "open_issues": 17,
             "owner": "ninyawee",
             "repo": "pythainav",
             "stars": 16,
@@ -652,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:22:46.089Z",
+    "last_updated": "2026-11-16T22:53:56.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",

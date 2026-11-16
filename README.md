@@ -14,7 +14,7 @@
 
 * [lvarayut/relay-fullstack](https://github.com/lvarayut/relay-fullstack) ⭐ 978 | 🐛 6 | 🌐 JavaScript | 📅 2017-11-25 - Modern Relay Starter Kit
 * [earthchie/jquery.Thailand.js](https://github.com/earthchie/jquery.Thailand.js) ⭐ 696 | 🐛 7 | 🌐 HTML | 📅 2024-08-31 - ตัวช่วยกรอกที่อยู่ที่ดีที่สุดในไทย ไม่ต้องใช้ Server Side! (JavaScript) :star:
-* [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) ⭐ 456 | 🐛 0 | 📅 2022-06-16 - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
+* [lvarayut/javascript-style-guide](https://github.com/lvarayut/javascript-style-guide) ⭐ 455 | 🐛 0 | 📅 2022-06-16 - คู่มือแนะนำสไตล์การเขียนจาวาสคริปต์ (JavaScript Style Guide)
 * [rkcosmos/deepcut](https://github.com/rkcosmos/deepcut) ⭐ 427 | 🐛 6 | 🌐 Python | 📅 2020-10-23 - A Thai word tokenization library using Deep Neural Network (Python) :star:
 * [kobkrit/nlp\_thai\_resources](https://github.com/kobkrit/nlp_thai_resources) ⭐ 396 | 🐛 8 | 📅 2023-04-09 - 30+ collections of Thai Natural Language Processing libraries.
 * [dtinth/promptpay-qr](https://github.com/dtinth/promptpay-qr) ⭐ 330 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-24 - Mobile web app, command line app, and JavaScript library to generate QR Code payload for PromptPay (JavaScript && HTML && CSS) :star:
@@ -29,7 +29,7 @@
 * [kittinan/thai-handwriting-number](https://github.com/kittinan/thai-handwriting-number) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2023-06-26 - Thai handwriting number dataset (Python)
 * [thaifin](https://github.com/ninyawee/thaifin) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2026-07-07 - ดึงข้อมูลพื้นฐานหุ้น (Python)
 * [codeforthailand/Thai-Citizen-ID-Validator](https://github.com/codeforthailand/Thai-Citizen-ID-Validator) ⭐ 22 | 🐛 1 | 🌐 JavaScript | 📅 2017-01-18 - ตรวจสอบเลขประจำตัวประชาชน (JavaScript)
-* [pythainav](https://github.com/ninyawee/pythainav) ⭐ 16 | 🐛 13 | 🌐 Python | 📅 2026-11-12 - ดึงข้อมูลกองทุนไทย (Python)
+* [pythainav](https://github.com/ninyawee/pythainav) ⭐ 16 | 🐛 17 | 🌐 Python | 📅 2026-11-15 - ดึงข้อมูลกองทุนไทย (Python)
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2019-05-25 - โค้ดตรวจหวย (PHP)
 * [pythaiidcard](https://github.com/ninyawee/pythaiidcard) ⭐ 8 | 🐛 11 | 🌐 Python | 📅 2026-05-09 - อ่านข้อมูลบัตรประชาชนไทยด้วย smartcard reader (Python)
 * [konjingjing](https://github.com/ninyawee/konjingjing) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-14 - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
