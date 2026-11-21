@@ -124,7 +124,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-04-09T11:28:14Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
             "stars": 396,
@@ -518,6 +518,36 @@
         },
         {
           "node_type": "item",
+          "title": "klanarongz2009-sketch/ter-ai",
+          "description": "Offline-first Thai intent routing with typo tolerance (Python; CPU-only, no runtime dependencies). v0.18.3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Offline Thai intent router in 1.1 MB: Thai or Thai-English text in, one of 15 intents out. Typo-tolerant, CPU only, no dependencies. Plus Thai TTS and music tools.",
+            "homepage": "https://klanarongz2009-sketch.github.io/ter-ai/",
+            "id": 1421838108,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-21T13:11:57Z",
+            "open_issues": 11,
+            "owner": "klanarongz2009-sketch",
+            "repo": "ter-ai",
+            "stars": 2,
+            "topics": [
+              "intent-classification",
+              "nlp",
+              "offline",
+              "python",
+              "text-to-speech",
+              "thai",
+              "thai-language",
+              "thai-nlp"
+            ]
+          },
+          "first_seen": "2026-11-09T22:59:25.226Z"
+        },
+        {
+          "node_type": "item",
           "title": "konjingjing",
           "description": "hyper-fast Python module for validating Thai Citizen Card ID written in Rust",
           "children": [],
@@ -536,44 +566,6 @@
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
-        },
-        {
-          "node_type": "item",
-          "title": "klanarongz2009-sketch/ter-ai",
-          "description": "Offline-first Thai intent routing with typo tolerance (Python; CPU-only, no runtime dependencies). v0.18.0",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Offline-first Thai AI toolkit: typo-tolerant intent routing, local chat and vision, speech synthesis, SVG graphics, and music creation.",
-            "homepage": "https://klanarongz2009-sketch.github.io/ter-ai/",
-            "id": 1421838108,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-11-20T14:05:34Z",
-            "open_issues": 6,
-            "owner": "klanarongz2009-sketch",
-            "repo": "ter-ai",
-            "stars": 1,
-            "topics": [
-              "ai",
-              "chatbot",
-              "computer-vision",
-              "generative-ai",
-              "intent-classification",
-              "iot",
-              "local-ai",
-              "music-generation",
-              "natural-language-processing",
-              "offline",
-              "python",
-              "svg",
-              "text-to-music",
-              "text-to-speech",
-              "thai",
-              "typo-correction"
-            ]
-          },
-          "first_seen": "2026-11-09T22:59:25.226Z"
         },
         {
           "node_type": "item",
@@ -652,7 +644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:05:38.773Z",
+    "last_updated": "2026-11-21T20:06:21.550Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
@@ -660,7 +652,7 @@
       "id": 107131336,
       "language": null,
       "license": "Unlicense",
-      "last_commit": "2026-11-09T05:11:00Z",
+      "last_commit": "2026-11-21T17:55:22Z",
       "open_issues": 0,
       "owner": "unnawut",
       "repo": "awesome-thai-dev",
@@ -674,7 +666,7 @@
         "thailand"
       ]
     },
-    "original_repository_sha": "e50cbb83f1d3291bb2f325b928ed329ce8e4fcbb",
+    "original_repository_sha": "ec586747db85acbc4280477e3f83ef40fc14d085",
     "enhanced_repository": "enhansome/enhansome-thai-dev",
     "enhanced_repository_description": null,
     "title": "Awesome Thai Dev with stars"
