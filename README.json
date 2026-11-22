@@ -123,8 +123,8 @@
             "id": 94662448,
             "language": null,
             "license": null,
-            "last_commit": "2023-04-09T11:28:14Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-22T00:59:41Z",
+            "open_issues": 6,
             "owner": "kobkrit",
             "repo": "nlp_thai_resources",
             "stars": 396,
@@ -528,11 +528,11 @@
             "id": 1421838108,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T13:11:57Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-22T15:13:03Z",
+            "open_issues": 8,
             "owner": "klanarongz2009-sketch",
             "repo": "ter-ai",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "intent-classification",
               "nlp",
@@ -644,7 +644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:06:21.550Z",
+    "last_updated": "2026-11-22T20:21:39.484Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
