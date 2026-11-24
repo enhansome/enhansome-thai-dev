@@ -199,7 +199,7 @@
             "open_issues": 9,
             "owner": "ETDA",
             "repo": "e-TaxInvoice-PDFgen",
-            "stars": 145,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T23:03:04.997Z"
@@ -644,7 +644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T00:51:46.594Z",
+    "last_updated": "2026-11-24T23:01:16.399Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",
