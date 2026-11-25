@@ -532,7 +532,7 @@
             "open_issues": 7,
             "owner": "klanarongz2009-sketch",
             "repo": "ter-ai",
-            "stars": 3,
+            "stars": 2,
             "topics": [
               "intent-classification",
               "nlp",
@@ -644,7 +644,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:01:16.399Z",
+    "last_updated": "2026-11-25T22:33:30.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome technical libraries/articles/resources in Thai",

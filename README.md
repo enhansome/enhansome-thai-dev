@@ -32,7 +32,7 @@
 * [pythainav](https://github.com/ninyawee/pythainav) ⭐ 16 | 🐛 17 | 🌐 Python | 📅 2026-11-15 - ดึงข้อมูลกองทุนไทย (Python)
 * [Siam-Lottery/thai-lottery-widget](https://github.com/Siam-Lottery/thai-lottery-widget) ⭐ 10 | 🐛 0 | 🌐 PHP | 📅 2019-05-25 - โค้ดตรวจหวย (PHP)
 * [pythaiidcard](https://github.com/ninyawee/pythaiidcard) ⭐ 8 | 🐛 11 | 🌐 Python | 📅 2026-05-09 - อ่านข้อมูลบัตรประชาชนไทยด้วย smartcard reader (Python)
-* [klanarongz2009-sketch/ter-ai](https://github.com/klanarongz2009-sketch/ter-ai) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-11-22 - Offline-first Thai intent routing with typo tolerance (Python; CPU-only, no runtime dependencies). [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) ⭐ 3 | 🐛 7 | 🌐 Python | 📅 2026-11-22
+* [klanarongz2009-sketch/ter-ai](https://github.com/klanarongz2009-sketch/ter-ai) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2026-11-22 - Offline-first Thai intent routing with typo tolerance (Python; CPU-only, no runtime dependencies). [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) ⭐ 2 | 🐛 7 | 🌐 Python | 📅 2026-11-22
 * [konjingjing](https://github.com/ninyawee/konjingjing) ⭐ 2 | 🐛 0 | 🌐 Rust | 📅 2025-12-14 - hyper-fast Python module for validating Thai Citizen Card ID written in Rust
 * [borisat](https://github.com/ninyawee/borisat) ⚠️ Archived - ดึงข้อมูลชื่อและที่อยู่บริษัทจากเลขที่ประจำตัวผู้เสียภาษี (Python)
 * [elysiajs](https://elysiajs.com/) - TypeScript framework supercharged by Bun, โดยคุณ [SaltyAom](https://github.com/SaltyAom)
@@ -104,4 +104,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
